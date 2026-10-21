@@ -6,5 +6,5 @@ Greetings! I am Aisyah Sofea, a first year Computer Science student, specializin
 - hard skills: graphic designs, microsoft office (+ more that I am trying to develop)
 - language proficiency: Malay (Native), English (MUET BAND 4.5 = CEFR B2)
 - interest & learning goal: Mandarin, ethical hacking, familiarity with cybersecurity tools
-- I was a part-time tutor which improved my problem-solving, time management and communication skills.
+- was a part-time tutor which improved my problem-solving, time management and communication skills.
 - to be edited...
