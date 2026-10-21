@@ -1,7 +1,7 @@
 # professional-development-portfolio
 
-## professional intro:
-Greetings! I am Aisyah Sofea, a first-year Computer fScience student, specializing in Networking & Computer Security. I am currently studying in Universiti Teknologi Malaysia (UTM). For my career target, I am most interested in the Penetration Tester role but I am willing to explore other roles to broaden my knowledge within cybersecurity.
+## introduction:
+Greetings! I am Aisyah Sofea, a first-year Computer Science student, specializing in Networking & Computer Security. I am currently studying in Universiti Teknologi Malaysia (UTM). I am a Kolej Matrikulasi Perak graduate, which is where I learned JavaScript. As for my career target, I am most interested in the Penetration Tester role but I am willing to explore other roles to broaden my knowledge within cybersecurity.
 
 ## skills & interests:
 - soft skills: adaptability, collaboration, communication, decision-making
